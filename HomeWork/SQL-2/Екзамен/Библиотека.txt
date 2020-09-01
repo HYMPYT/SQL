@@ -1,0 +1,11 @@
+Heart of Dragon - Julie Kagawa - Exmo - Fantasy
+Jack Lantern Curse - Colleen Hawke - Exmo - Horror and mysticism
+The tree war will begin on the thirteenth - Didier van Koveller - ID CompassGuide - Science fiction
+Unknown to me - Max Fry - AST - Horror and mysticism
+Price management - Herman Simon - Byblos - Home
+Seven stones - Diana Gabledon - Exmo - Fantasy
+Fifth sun - Elena Bumagina - ID CompassGuide - Fantasy
+Eyes of the sorcerer - Ksenia Khan - AST - Fantasy
+alter table Lectures
+add foreign key (TeacherId) references Teachers(Id);
+go
